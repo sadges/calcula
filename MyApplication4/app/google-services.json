@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663774261988",
+    "project_id": "calcu-89417",
+    "storage_bucket": "calcu-89417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663774261988:android:207de80698ae2fbc4f32f1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9UbnjFS4KxrKG9QRtkv9p5nHc_MlJdm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
